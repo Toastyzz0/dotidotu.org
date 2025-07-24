@@ -1,2 +1,7 @@
-# dotidotu.org
-A click based game. That simple. :3
+# DotiDotu!
+
+
+## Welcome to my game
+> kjehv8uh0vhoie
+>
+>
