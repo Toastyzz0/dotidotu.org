@@ -1,6 +1,6 @@
 # DotiDotu!
 
-A Click Based game made in (Penguinmod)[https://penguinmod.com]. That Simple. :3
+A Click Based game made in [Penguinmod](https://penguinmod.com/). That Simple. :3
 
 ## Welcome to DotiDotu!
 > DotiDotu is a Click Based game where a Circle is in the Middle of the screen. A dot will appear in a random direction. 
