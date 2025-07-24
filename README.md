@@ -8,5 +8,6 @@ A Click Based game made in [Penguinmod](https://penguinmod.com/). That Simple. :
 > That's it.
 
 ## Where can I Install DotiDotu?
-> You can 
->
+> You can Install DotiDotu at [The Main Website](https://toastyzz0.github.io/dotidotu.org/).
+> (AKA: https://toastyzz0.github.io/dotidotu.org/)
+> (And no, we do not have a Auto Update System.)
